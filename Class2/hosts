@@ -1,0 +1,8 @@
+[wordpress]
+
+master ansible_host=157.230.11.194
+
+[mysql]
+
+worker ansible_host=137.184.159.168
+
